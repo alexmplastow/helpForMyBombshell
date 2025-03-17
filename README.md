@@ -1,6 +1,10 @@
 
 To Twinkle: if you want to use this, go to the mageck_nest/mageck_nest.py python file and attempt to execute. I'll add a yaml file in a second
 
+To initialize the environment:
+conda env create -f environment.yml
+
+
 This code ain't mine, it'll be down within a day or two
 
 
