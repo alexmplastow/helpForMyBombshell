@@ -1,0 +1,54 @@
+name: mageckThree
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - _libgcc_mutex=0.1=conda_forge
+  - _openmp_mutex=4.5=2_gnu
+  - bzip2=1.0.8=h4bc722e_7
+  - ca-certificates=2025.1.31=hbcca054_0
+  - certifi=2018.8.24=py35_1001
+  - libffi=3.3=h58526e2_2
+  - libgcc=14.2.0=h767d61c_2
+  - libgcc-ng=14.2.0=h69a702a_2
+  - libgomp=14.2.0=h767d61c_2
+  - liblzma=5.6.4=hb9d3cd8_0
+  - liblzma-devel=5.6.4=hb9d3cd8_0
+  - libsqlite=3.46.0=hde9e2c9_0
+  - libstdcxx=14.2.0=h8f9b012_2
+  - libstdcxx-ng=14.2.0=h4852527_2
+  - libzlib=1.2.13=h4ab18f5_6
+  - ncurses=6.5=h2d0b736_3
+  - openssl=1.1.1w=hd590300_0
+  - pip=20.3.4=pyhd8ed1ab_0
+  - python=3.5.6=h12debd9_1
+  - readline=8.2=h8c095d6_2
+  - setuptools=40.4.3=py35_0
+  - sqlite=3.46.0=h6d4b2fc_0
+  - tk=8.6.13=noxft_h4845f30_101
+  - wheel=0.37.1=pyhd8ed1ab_0
+  - xz=5.6.4=hbcc6ac9_0
+  - xz-gpl-tools=5.6.4=hbcc6ac9_0
+  - xz-tools=5.6.4=hb9d3cd8_0
+  - zlib=1.2.13=h4ab18f5_6
+  - pip:
+      - beautifulsoup4==4.10.0
+      - bs4==0.0.2
+      - cycler==0.10.0
+      - joblib==0.14.1
+      - kiwisolver==1.1.0
+      - mageck-nest==0.0.0
+      - matplotlib==3.0.3
+      - numpy==1.18.5
+      - pandas==0.25.3
+      - patsy==0.5.6
+      - pyparsing==2.4.7
+      - python-dateutil==2.9.0.post0
+      - pytz==2025.1
+      - scikit-learn==0.22.2.post1
+      - scipy==1.4.1
+      - six==1.17.0
+      - sklearn==0.0
+      - soupsieve==2.1
+      - statsmodels==0.11.1
+prefix: /home/alpal/Documents/toolsTmp/anaconda3/envs/mageckThree
