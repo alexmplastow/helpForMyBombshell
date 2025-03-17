@@ -1,4 +1,7 @@
+
 To Twinkle: if you want to use this, go to the mageck_nest/mageck_nest.py python file and attempt to execute. I'll add a yaml file in a second
+
+By the way, in case the original writer of this programmer can see I uploaded, I'm just uploading this code with some changes for the benefit of my darling who enlisted my help in using the tool. This code ain't mine
 
 
 Integrative CRISPR analysis using MAGeCK-NEST
