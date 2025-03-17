@@ -22,7 +22,7 @@ try:
 except:
   pass
 
-from mageck_nest.mleclassdef import *
+from mleclassdef import *
 
 def func(x,a,b):
     return (a/x)+b

@@ -6,6 +6,7 @@ Defining the core EM MLE approach
 
 import re
 import sys
+sys.path.append('/home/alpal/projects/helpForTinku/mageck/mageck_nest/mageck_nest')
 import scipy
 from scipy.stats import nbinom
 from scipy.stats import norm
@@ -15,8 +16,8 @@ import numpy as np
 import numpy.linalg as linalg
 import copy
 
-from mageck_nest.mleclassdef import *
-from mageck_nest.mledesignmat import *
+from mleclassdef import *
+from mledesignmat import *
 import logging
 
 def getloglikelihood2(kmat,mu_estimate,alpha,sumup=False,log=True):
