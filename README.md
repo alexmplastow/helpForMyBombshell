@@ -1,3 +1,6 @@
+To Twinkle: if you want to use this, go to the mageck_nest/mageck_nest.py python file and attempt to execute. I'll add a yaml file in a second
+
+
 Integrative CRISPR analysis using MAGeCK-NEST
 ====================================================================================
 Model-based Analysis of Genome-wide CRISPR-Cas9 Knockout (MAGeCK_NEST) is a computational tool to identify important genes from the genome-scale CRISPR-Cas9 knockout screens technology. Based on the previous generation, MAGeCK_VISPR, MAGeCK_NEST includes some new features, including:
